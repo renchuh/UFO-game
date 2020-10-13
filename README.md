@@ -1,2 +1,2 @@
 # UFO-game
-A A simple unity UFO game
+A simple unity UFO game
